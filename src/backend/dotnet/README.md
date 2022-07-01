@@ -1,4 +1,4 @@
-# AXA Geolocation Backend
+# Sample StackOverflow Clone Frontend Implementation using .NET
 
 .NET 6.0 uygulaması
 
